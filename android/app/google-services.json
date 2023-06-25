@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131791286952",
+    "project_id": "notifire-ec74e",
+    "storage_bucket": "notifire-ec74e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131791286952:android:1d88b4b245999397e0089d",
+        "android_client_info": {
+          "package_name": "com.notifire.notifire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131791286952-kioh041569n6sjerq9eolks7i3laq9an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGsxq_LYF4ibWaiYIVn3bMCFNRrWBOt2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131791286952-kioh041569n6sjerq9eolks7i3laq9an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
